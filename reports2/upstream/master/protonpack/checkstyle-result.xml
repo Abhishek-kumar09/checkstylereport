@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.36-SNAPSHOT">
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/WindowedTest.java">
+<error line="19" column="5" severity="warning" message="&apos;windowing_on_list&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="5" severity="warning" message="&apos;windowing_on_list_two_overlap&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="45" column="5" severity="warning" message="&apos;windowing_on__empty_list&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/UniqueTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/UnfoldTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/MapStreamTest.java">
+<error line="50" column="8" severity="warning" message="&apos;method def&apos; child has incorrect indentation level 7, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/MinMaxByProjectionTest.java">
+<error line="16" column="5" severity="warning" message="&apos;max_by_with_projection_and_default_comparer&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="5" severity="warning" message="&apos;min_by_with_projection_and_default_comparer&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/GroupRunsTest.java">
+<error line="18" column="5" severity="warning" message="&apos;group_runs&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="33" column="5" severity="warning" message="&apos;group_runs_end_has_run&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="48" column="5" severity="warning" message="&apos;group_is_empty&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/StreamableTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/TakeWhileTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/SeqTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/NullableTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/InterleaveTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/MergeTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/OptionalTest.java">
+<error line="17" column="5" severity="warning" message="&apos;stream_of_nonempty_optionals&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="26" column="5" severity="warning" message="&apos;stream_of_empty_optionals&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/SkipWhileTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/ZipTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/NoCombinerTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/test/java/com/codepoetics/protonpack/AggregateTest.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/AggregatingSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/EmptySeq.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/maps/DefaultMapStream.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/maps/MapStream.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/selectors/Selector.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/selectors/Selectors.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/SkipUntilSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/Streamable.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/MergingSpliterator.java">
+<error line="39" column="17" severity="warning" message="&apos;lambda arguments&apos; has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/WindowedSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/ZippingSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/Indexed.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/UnfoldSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/Seq.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/PairSeq.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/TakeWhileSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/InterleavingSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/functions/TriFunction.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/collectors/CollectorUtils.java">
+<error line="39" column="5" severity="warning" message="&apos;maxBy&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="69" column="5" severity="warning" message="&apos;minBy&apos; has incorrect indentation level 4, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="90" column="17" severity="warning" message="&apos;lambda arguments&apos; has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/collectors/NonUniqueValueException.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/TriZippingSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/TappedSpliterator.java">
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/StreamUtils.java">
+<error line="295" column="17" severity="warning" message="&apos;lambda arguments&apos; has incorrect indentation level 16, expected level should be 12." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/home/abhishek99/openSource/contribution/contribution/checkstyle-tester/repositories/protonpack/src/main/java/com/codepoetics/protonpack/GroupRunsSpliterator.java">
+</file>
+</checkstyle>
