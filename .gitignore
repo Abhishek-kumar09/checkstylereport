@@ -16,4 +16,23 @@
 /reports/if_with_no_curly/Hbase/site/checkstyle.html
 /reports/if_with_no_curly/guava/site/index.html
 /reports/if_with_no_curly/guava/site/checkstyle.html
+/reports2/upstream/master/hibernate-orm/site/index.html
+/reports2/upstream/master/hibernate-orm/site/checkstyle.html
+/reports2/upstream/master/hibernate-orm-with-excludes/site/index.html
+/reports2/upstream/master/hibernate-orm-with-excludes/site/checkstyle.html
+/reports2/upstream/master/Hbase/checkstyle-result.xml
+/reports2/upstream/master/Hbase/site/index.html
+/reports2/upstream/master/Hbase/site/checkstyle.html
+/reports2/upstream/master/guava/site/index.html
+/reports2/upstream/master/guava/site/checkstyle.html
+/reports2/temp_lambda/hibernate-orm/site/index.html
+/reports2/temp_lambda/hibernate-orm/site/checkstyle.html
+/reports2/temp_lambda/hibernate-orm-with-excludes/site/index.html
+/reports2/temp_lambda/hibernate-orm-with-excludes/site/checkstyle.html
+/reports2/temp_lambda/Hbase/checkstyle-result.xml
+/reports2/temp_lambda/Hbase/site/index.html
+/reports2/temp_lambda/Hbase/site/checkstyle.html
+/reports2/temp_lambda/guava/site/index.html
+/reports2/temp_lambda/guava/site/checkstyle.html
+
 
